@@ -1,0 +1,127 @@
+element.style {
+}
+.ArticleHeader__SocialWrapper {
+    display: flex
+;
+    gap: .625rem;
+    margin-bottom: 1.25rem;
+    margin-top: 1.25rem;
+}
+.ArticleHeader__SocialWrapper {
+    display: flex
+;
+    gap: .625rem;
+    margin-bottom: 1.25rem;
+    margin-top: 1.25rem;
+}
+a, b, blockquote, body, button, canvas, caption, code, div, em, embed, fieldset, figure, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, label, li, main, nav, object, ol, p, pre, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, u, ul, video {
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    text-size-adjust: none;
+    border: 0;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    text-rendering: optimizeLegibility;
+    vertical-align: baseline;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+html.Dark {
+    background-color: #000;
+    color: #fff;
+}
+html {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+.Button, .Divider, .Form p, .FormError li, .Form__Copy, .Form__Copy em, .Form__Copy strong, .Form__Hyperlink, .Form__ListItem, .Form__Note, .Form__Subheading, .Label, .Label a, .LabelText, .ProductNavigationMobile__ListItemHeading h3, .Sans, .SectionNavigation__ListItemHeading h3, .SubjectNavigation__ListItemHeading h3, .TopNav__SignInText, .TopNav__SkipToContentButton, .quote, div#onetrust-consent-sdk #onetrust-banner-sdk #onetrust-button-group button#onetrust-accept-btn-handler, div#onetrust-consent-sdk #onetrust-banner-sdk #onetrust-button-group button#onetrust-pc-btn-handler, div#onetrust-consent-sdk #onetrust-banner-sdk #onetrust-button-group button#onetrust-reject-all-handler, div#onetrust-consent-sdk #onetrust-pc-sdk div[role=alertdialog] #ot-pc-content.ot-pc-scrollbar button#accept-recommended-btn-handler, div#onetrust-consent-sdk #onetrust-pc-sdk div[role=alertdialog] .ot-pc-footer .ot-btn-container button.ot-pc-refuse-all-handler:not(#clear-filters-handler):not(.ot-close-icon):not(#filter-btn-handler):not(.ot-remove-objection-handler):not(.ot-obj-leg-btn-handler):not([aria-expanded]):not(.ot-link-btn), div#onetrust-consent-sdk #onetrust-pc-sdk div[role=alertdialog] .ot-pc-footer .ot-btn-container button.save-preference-btn-handler:not(#clear-filters-handler):not(.ot-close-icon):not(#filter-btn-handler):not(.ot-remove-objection-handler):not(.ot-obj-leg-btn-handler):not([aria-expanded]):not(.ot-link-btn), fieldset, html, input, input[type=date], input[type=datetime-local], input[type=email], input[type=month], input[type=number], input[type=password], input[type=range], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], legend, li:not([class]), p, select, textarea {
+    font-feature-settings: "tnum", "onum";
+    font-family: ff-enzo-web, "secondary-sans-serif", sans-serif;
+}
+html {
+    font-weight: 600;
+    scroll-padding-top: 8.1875rem;
+}
+html {
+    color: #000;
+}
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+html.Dark ::selection {
+    background-color: #7a0f4a;
+}
+::selection {
+    background-color: #ffbc96;
+}
+html.Dark ::selection {
+    background-color: #7a0f4a;
+}
+::selection {
+    background-color: #ffbc96;
+}
+html.Dark ::selection {
+    background-color: #7a0f4a;
+}
+::selection {
+    background-color: #ffbc96;
+}
+html.Dark ::selection {
+    background-color: #7a0f4a;
+}
+::selection {
+    background-color: #ffbc96;
+}
+html.Dark ::selection {
+    background-color: #7a0f4a;
+}
+::selection {
+    background-color: #ffbc96;
+}
+html.Dark ::selection {
+    background-color: #7a0f4a;
+}
+::selection {
+    background-color: #ffbc96;
+}
+html.Dark ::selection {
+    background-color: #7a0f4a;
+}
+::selection {
+    background-color: #ffbc96;
+}
+html.Dark ::selection {
+    background-color: #7a0f4a;
+}
+::selection {
+    background-color: #ffbc96;
+}
+html.Dark ::selection {
+    background-color: #7a0f4a;
+}
+::selection {
+    background-color: #ffbc96;
+}
+::selection {
+    background-color: #ffbc96;
+}
